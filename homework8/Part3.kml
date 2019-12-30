@@ -1,0 +1,1815 @@
+<Document>
+  <Name>Country Facts</Name>
+  <Description>Refugee rate</Description>
+  <Folder>
+    <Name>CIA Fact Book</Name>
+  </Folder>
+  <LookAt>
+    <longitude/>
+    <latitude/>
+    <altitude/>
+    <title/>
+    <heading/>
+    <altitudeMode/>
+  </LookAt>
+  <Style id="YOR1-1">
+    <IconStyle>
+      <scale>1</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_blue.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR2-1">
+    <IconStyle>
+      <scale>1</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_green.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR3-1">
+    <IconStyle>
+      <scale>1</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_orange.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR4-1">
+    <IconStyle>
+      <scale>1</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_red.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR5-1">
+    <IconStyle>
+      <scale>1</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_yellow.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR1-2">
+    <IconStyle>
+      <scale>2.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_blue.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR2-2">
+    <IconStyle>
+      <scale>2.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_green.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR3-2">
+    <IconStyle>
+      <scale>2.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_orange.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR4-2">
+    <IconStyle>
+      <scale>2.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_red.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR5-2">
+    <IconStyle>
+      <scale>2.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_yellow.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR1-3">
+    <IconStyle>
+      <scale>4</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_blue.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR2-3">
+    <IconStyle>
+      <scale>4</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_green.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR3-3">
+    <IconStyle>
+      <scale>4</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_orange.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR4-3">
+    <IconStyle>
+      <scale>4</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_red.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR5-3">
+    <IconStyle>
+      <scale>4</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_yellow.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR1-4">
+    <IconStyle>
+      <scale>5.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_blue.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR2-4">
+    <IconStyle>
+      <scale>5.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_green.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR3-4">
+    <IconStyle>
+      <scale>5.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_orange.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR4-4">
+    <IconStyle>
+      <scale>5.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_red.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR5-4">
+    <IconStyle>
+      <scale>5.5</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_yellow.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR1-5">
+    <IconStyle>
+      <scale>7</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_blue.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR2-5">
+    <IconStyle>
+      <scale>7</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_green.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR3-5">
+    <IconStyle>
+      <scale>7</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_orange.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR4-5">
+    <IconStyle>
+      <scale>7</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_red.png</Icon>
+    </IconStyle>
+  </Style>
+  <Style id="YOR5-5">
+    <IconStyle>
+      <scale>7</scale>
+      <Icon>C:/Users/color_label_circle/color_label_circle_yellow.png</Icon>
+    </IconStyle>
+  </Style>
+  <Placemark id="AF">
+    <name>AFGHANISTAN</name>
+    <description>AFGHANISTAN
+ Refugee Population: 205558
+ Refugees per 1,000 inhabitants: 7.14</description>
+    <Point>
+      <coordinates>65 33 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AL">
+    <name>ALBANIA</name>
+    <description>ALBANIA
+ Refugee Population: 154
+ Refugees per 1,000 inhabitants: 0.05</description>
+    <Point>
+      <coordinates>20 41 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AG">
+    <name>ALGERIA</name>
+    <description>ALGERIA
+ Refugee Population: 94144
+ Refugees per 1,000 inhabitants: 2.42</description>
+    <Point>
+      <coordinates>3 28 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AO">
+    <name>ANGOLA</name>
+    <description>ANGOLA
+ Refugee Population: 15572
+ Refugees per 1,000 inhabitants: 0.64</description>
+    <Point>
+      <coordinates>18.5 -12.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AR">
+    <name>ARGENTINA</name>
+    <description>ARGENTINA
+ Refugee Population: 3523
+ Refugees per 1,000 inhabitants: 0.08</description>
+    <Point>
+      <coordinates>-64 -34 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AM">
+    <name>ARMENIA</name>
+    <description>ARMENIA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 5.22</description>
+    <Point>
+      <coordinates>45 40 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AA">
+    <name>ARUBA</name>
+    <description>ARUBA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-69.9667 12.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AS">
+    <name>AUSTRALIA</name>
+    <description>AUSTRALIA
+ Refugee Population: 35582
+ Refugees per 1,000 inhabitants: 1.51</description>
+    <Point>
+      <coordinates>133 -27 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AU">
+    <name>AUSTRIA</name>
+    <description>AUSTRIA
+ Refugee Population: 60747
+ Refugees per 1,000 inhabitants: 7.13</description>
+    <Point>
+      <coordinates>13.3333 47.3333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="AJ">
+    <name>AZERBAIJAN</name>
+    <description>AZERBAIJAN
+ Refugee Population: 1357
+ Refugees per 1,000 inhabitants: 0.14</description>
+    <Point>
+      <coordinates>47.5 40.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BA">
+    <name>BAHRAIN</name>
+    <description>BAHRAIN
+ Refugee Population: 277
+ Refugees per 1,000 inhabitants: 0.2</description>
+    <Point>
+      <coordinates>50.55 26 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BG">
+    <name>BANGLADESH</name>
+    <description>BANGLADESH
+ Refugee Population: 32975
+ Refugees per 1,000 inhabitants: 1.46</description>
+    <Point>
+      <coordinates>90 24 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BB">
+    <name>BARBADOS</name>
+    <description>BARBADOS
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-59.5333 13.1667 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BO">
+    <name>BELARUS</name>
+    <description>BELARUS
+ Refugee Population: 1369
+ Refugees per 1,000 inhabitants: 0.14</description>
+    <Point>
+      <coordinates>28 53 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BE">
+    <name>BELGIUM</name>
+    <description>BELGIUM
+ Refugee Population: 31115
+ Refugees per 1,000 inhabitants: 2.77</description>
+    <Point>
+      <coordinates>4 50.8333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BH">
+    <name>BELIZE</name>
+    <description>BELIZE
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-88.75 17.25 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BN">
+    <name>BENIN</name>
+    <description>BENIN
+ Refugee Population: 488
+ Refugees per 1,000 inhabitants: 0.05</description>
+    <Point>
+      <coordinates>2.25 9.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BL">
+    <name>BOLIVIA</name>
+    <description>BOLIVIA
+ Refugee Population: 767
+ Refugees per 1,000 inhabitants: 0.07</description>
+    <Point>
+      <coordinates>-65 -17 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BK">
+    <name>BOSNIA AND HERZEGOVINA</name>
+    <description>BOSNIA AND HERZEGOVINA
+ Refugee Population: 6805
+ Refugees per 1,000 inhabitants: 1.78</description>
+    <Point>
+      <coordinates>18 44 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BC">
+    <name>BOTSWANA</name>
+    <description>BOTSWANA
+ Refugee Population: 2164
+ Refugees per 1,000 inhabitants: 0.97</description>
+    <Point>
+      <coordinates>24 -22 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BR">
+    <name>BRAZIL</name>
+    <description>BRAZIL
+ Refugee Population: 7762
+ Refugees per 1,000 inhabitants: 0.04</description>
+    <Point>
+      <coordinates>-55 -10 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="VI">
+    <name>BRITISH VIRGIN ISLANDS</name>
+    <description>BRITISH VIRGIN ISLANDS
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-64.5 18.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BU">
+    <name>BULGARIA</name>
+    <description>BULGARIA
+ Refugee Population: 11046
+ Refugees per 1,000 inhabitants: 1.53</description>
+    <Point>
+      <coordinates>25 43 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="UV">
+    <name>BURKINA FASO</name>
+    <description>BURKINA FASO
+ Refugee Population: 34027
+ Refugees per 1,000 inhabitants: 1.93</description>
+    <Point>
+      <coordinates>-2 13 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BY">
+    <name>BURUNDI</name>
+    <description>BURUNDI
+ Refugee Population: 54126
+ Refugees per 1,000 inhabitants: 5</description>
+    <Point>
+      <coordinates>30 -3.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CB">
+    <name>CAMBODIA</name>
+    <description>CAMBODIA
+ Refugee Population: 80
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>105 13 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CM">
+    <name>CAMEROON</name>
+    <description>CAMEROON
+ Refugee Population: 288552
+ Refugees per 1,000 inhabitants: 13.27</description>
+    <Point>
+      <coordinates>12 6 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-1</styleUrl>
+  </Placemark>
+  <Placemark id="CA">
+    <name>CANADA</name>
+    <description>CANADA
+ Refugee Population: 149163
+ Refugees per 1,000 inhabitants: 4.19</description>
+    <Point>
+      <coordinates>-95 60 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CJ">
+    <name>CAYMAN ISLANDS</name>
+    <description>CAYMAN ISLANDS
+ Refugee Population: 6
+ Refugees per 1,000 inhabitants: 0.1</description>
+    <Point>
+      <coordinates>-80.5 19.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CD">
+    <name>CHAD</name>
+    <description>CHAD
+ Refugee Population: 420774
+ Refugees per 1,000 inhabitants: 30.97</description>
+    <Point>
+      <coordinates>19 15 0</coordinates>
+    </Point>
+    <styleUrl>#YOR3-2</styleUrl>
+  </Placemark>
+  <Placemark id="CI">
+    <name>CHILE</name>
+    <description>CHILE
+ Refugee Population: 1798
+ Refugees per 1,000 inhabitants: 0.1</description>
+    <Point>
+      <coordinates>-71 -30 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CH">
+    <name>CHINA</name>
+    <description>CHINA
+ Refugee Population: 301057
+ Refugees per 1,000 inhabitants: 0.22</description>
+    <Point>
+      <coordinates>105 35 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CO">
+    <name>COLOMBIA</name>
+    <description>COLOMBIA
+ Refugee Population: 219
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-72 4 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CS">
+    <name>COSTA RICA</name>
+    <description>COSTA RICA
+ Refugee Population: 3475
+ Refugees per 1,000 inhabitants: 0.73</description>
+    <Point>
+      <coordinates>-84 10 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="HR">
+    <name>CROATIA</name>
+    <description>CROATIA
+ Refugee Population: 669
+ Refugees per 1,000 inhabitants: 0.17</description>
+    <Point>
+      <coordinates>15.5 45.1667 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CU">
+    <name>CUBA</name>
+    <description>CUBA
+ Refugee Population: 313
+ Refugees per 1,000 inhabitants: 0.03</description>
+    <Point>
+      <coordinates>-80 21.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CY">
+    <name>CYPRUS</name>
+    <description>CYPRUS
+ Refugee Population: 5763
+ Refugees per 1,000 inhabitants: 4.99</description>
+    <Point>
+      <coordinates>33 35 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="EZ">
+    <name>CZECH REPUBLIC</name>
+    <description>CZECH REPUBLIC
+ Refugee Population: 3137
+ Refugees per 1,000 inhabitants: 0.3</description>
+    <Point>
+      <coordinates>15.5 49.75 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="DA">
+    <name>DENMARK</name>
+    <description>DENMARK
+ Refugee Population: 17785
+ Refugees per 1,000 inhabitants: 3.15</description>
+    <Point>
+      <coordinates>10 56 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="DJ">
+    <name>DJIBOUTI</name>
+    <description>DJIBOUTI
+ Refugee Population: 14787
+ Refugees per 1,000 inhabitants: 16.88</description>
+    <Point>
+      <coordinates>43 11.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-1</styleUrl>
+  </Placemark>
+  <Placemark id="DR">
+    <name>DOMINICAN REPUBLIC</name>
+    <description>DOMINICAN REPUBLIC
+ Refugee Population: 609
+ Refugees per 1,000 inhabitants: 0.06</description>
+    <Point>
+      <coordinates>-70.6667 19 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="EC">
+    <name>ECUADOR</name>
+    <description>ECUADOR
+ Refugee Population: 53378
+ Refugees per 1,000 inhabitants: 7.65</description>
+    <Point>
+      <coordinates>-77.5 -2 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="EG">
+    <name>EGYPT</name>
+    <description>EGYPT
+ Refugee Population: 226344
+ Refugees per 1,000 inhabitants: 2.53</description>
+    <Point>
+      <coordinates>30 27 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="ES">
+    <name>EL SALVADOR</name>
+    <description>EL SALVADOR
+ Refugee Population: 48
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>-88.9167 13.8333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="ER">
+    <name>ERITREA</name>
+    <description>ERITREA
+ Refugee Population: 2944
+ Refugees per 1,000 inhabitants: 0.58</description>
+    <Point>
+      <coordinates>39 15 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="EN">
+    <name>ESTONIA</name>
+    <description>ESTONIA
+ Refugee Population: 117
+ Refugees per 1,000 inhabitants: 0.09</description>
+    <Point>
+      <coordinates>26 59 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="ET">
+    <name>ETHIOPIA</name>
+    <description>ETHIOPIA
+ Refugee Population: 702467
+ Refugees per 1,000 inhabitants: 7.24</description>
+    <Point>
+      <coordinates>38 8 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-2</styleUrl>
+  </Placemark>
+  <Placemark id="FJ">
+    <name>FIJI</name>
+    <description>FIJI
+ Refugee Population: 12
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>175 -18 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="FI">
+    <name>FINLAND</name>
+    <description>FINLAND
+ Refugee Population: 11798
+ Refugees per 1,000 inhabitants: 2.15</description>
+    <Point>
+      <coordinates>26 64 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="FR">
+    <name>FRANCE</name>
+    <description>FRANCE
+ Refugee Population: 264972
+ Refugees per 1,000 inhabitants: 4.13</description>
+    <Point>
+      <coordinates>2 46 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GB">
+    <name>GABON</name>
+    <description>GABON
+ Refugee Population: 1008
+ Refugees per 1,000 inhabitants: 0.6</description>
+    <Point>
+      <coordinates>11.75 -1 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GG">
+    <name>GEORGIA</name>
+    <description>GEORGIA
+ Refugee Population: 1060
+ Refugees per 1,000 inhabitants: 0.41</description>
+    <Point>
+      <coordinates>43.5 42 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GM">
+    <name>GERMANY</name>
+    <description>GERMANY
+ Refugee Population: 250299
+ Refugees per 1,000 inhabitants: 3.1</description>
+    <Point>
+      <coordinates>9 51 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GH">
+    <name>GHANA</name>
+    <description>GHANA
+ Refugee Population: 18476
+ Refugees per 1,000 inhabitants: 0.69</description>
+    <Point>
+      <coordinates>-2 8 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GR">
+    <name>GREECE</name>
+    <description>GREECE
+ Refugee Population: 7304
+ Refugees per 1,000 inhabitants: 0.75</description>
+    <Point>
+      <coordinates>22 39 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GJ">
+    <name>GRENADA</name>
+    <description>GRENADA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-61.6667 12.1167 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GT">
+    <name>GUATEMALA</name>
+    <description>GUATEMALA
+ Refugee Population: 202
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>-90.25 15.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GV">
+    <name>GUINEA</name>
+    <description>GUINEA
+ Refugee Population: 8704
+ Refugees per 1,000 inhabitants: 0.71</description>
+    <Point>
+      <coordinates>-10 11 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PU">
+    <name>GUINEA-BISSAU</name>
+    <description>GUINEA-BISSAU
+ Refugee Population: 8684
+ Refugees per 1,000 inhabitants: 4.82</description>
+    <Point>
+      <coordinates>-15 12 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="GY">
+    <name>GUYANA</name>
+    <description>GUYANA
+ Refugee Population: 11
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>-59 5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="HA">
+    <name>HAITI</name>
+    <description>HAITI
+ Refugee Population: 5
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-72.4167 19 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="HO">
+    <name>HONDURAS</name>
+    <description>HONDURAS
+ Refugee Population: 23
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-86.5 15 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="HK">
+    <name>HONG KONG</name>
+    <description>HONG KONG
+ Refugee Population: 151
+ Refugees per 1,000 inhabitants: 0.02</description>
+    <Point>
+      <coordinates>114.1667 22.25 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="HU">
+    <name>HUNGARY</name>
+    <description>HUNGARY
+ Refugee Population: 4192
+ Refugees per 1,000 inhabitants: 0.42</description>
+    <Point>
+      <coordinates>20 47 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="IC">
+    <name>ICELAND</name>
+    <description>ICELAND
+ Refugee Population: 104
+ Refugees per 1,000 inhabitants: 0.32</description>
+    <Point>
+      <coordinates>-18 65 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="IN">
+    <name>INDIA</name>
+    <description>INDIA
+ Refugee Population: 200383
+ Refugees per 1,000 inhabitants: 0.15</description>
+    <Point>
+      <coordinates>77 20 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="ID">
+    <name>INDONESIA</name>
+    <description>INDONESIA
+ Refugee Population: 5277
+ Refugees per 1,000 inhabitants: 0.02</description>
+    <Point>
+      <coordinates>120 -5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="IR">
+    <name>IRAN</name>
+    <description>IRAN
+ Refugee Population: 979441
+ Refugees per 1,000 inhabitants: 12.53</description>
+    <Point>
+      <coordinates>53 32 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-3</styleUrl>
+  </Placemark>
+  <Placemark id="IZ">
+    <name>IRAQ</name>
+    <description>IRAQ
+ Refugee Population: 288035
+ Refugees per 1,000 inhabitants: 8.17</description>
+    <Point>
+      <coordinates>44 33 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="EI">
+    <name>IRELAND</name>
+    <description>IRELAND
+ Refugee Population: 5853
+ Refugees per 1,000 inhabitants: 1.25</description>
+    <Point>
+      <coordinates>-8 53 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="IS">
+    <name>ISRAEL</name>
+    <description>ISRAEL
+ Refugee Population: 361
+ Refugees per 1,000 inhabitants: 4.85</description>
+    <Point>
+      <coordinates>34.75 31.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="IT">
+    <name>ITALY</name>
+    <description>ITALY
+ Refugee Population: 93715
+ Refugees per 1,000 inhabitants: 1.57</description>
+    <Point>
+      <coordinates>12.8333 42.8333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="JM">
+    <name>JAMAICA</name>
+    <description>JAMAICA
+ Refugee Population: 15
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>-77.5 18.25 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="JA">
+    <name>JAPAN</name>
+    <description>JAPAN
+ Refugee Population: 2419
+ Refugees per 1,000 inhabitants: 0.02</description>
+    <Point>
+      <coordinates>138 36 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="JO">
+    <name>JORDAN</name>
+    <description>JORDAN
+ Refugee Population: 664102
+ Refugees per 1,000 inhabitants: 89.55</description>
+    <Point>
+      <coordinates>36 31 0</coordinates>
+    </Point>
+    <styleUrl>#YOR5-2</styleUrl>
+  </Placemark>
+  <Placemark id="KZ">
+    <name>KAZAKHSTAN</name>
+    <description>KAZAKHSTAN
+ Refugee Population: 662
+ Refugees per 1,000 inhabitants: 0.04</description>
+    <Point>
+      <coordinates>68 48 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="KE">
+    <name>KENYA</name>
+    <description>KENYA
+ Refugee Population: 552272
+ Refugees per 1,000 inhabitants: 12.31</description>
+    <Point>
+      <coordinates>38 1 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-2</styleUrl>
+  </Placemark>
+  <Placemark id="KU">
+    <name>KUWAIT</name>
+    <description>KUWAIT
+ Refugee Population: 593
+ Refugees per 1,000 inhabitants: 0.16</description>
+    <Point>
+      <coordinates>47.6581 29.3375 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="KG">
+    <name>KYRGYZSTAN</name>
+    <description>KYRGYZSTAN
+ Refugee Population: 433
+ Refugees per 1,000 inhabitants: 0.07</description>
+    <Point>
+      <coordinates>75 41 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LG">
+    <name>LATVIA</name>
+    <description>LATVIA
+ Refugee Population: 195
+ Refugees per 1,000 inhabitants: 0.1</description>
+    <Point>
+      <coordinates>25 57 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LE">
+    <name>LEBANON</name>
+    <description>LEBANON
+ Refugee Population: 1172388
+ Refugees per 1,000 inhabitants: 208.91</description>
+    <Point>
+      <coordinates>35.8333 33.8333 0</coordinates>
+    </Point>
+    <styleUrl>#YORNA-4</styleUrl>
+  </Placemark>
+  <Placemark id="LT">
+    <name>LESOTHO</name>
+    <description>LESOTHO
+ Refugee Population: 44
+ Refugees per 1,000 inhabitants: 0.02</description>
+    <Point>
+      <coordinates>28.5 -29.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LI">
+    <name>LIBERIA</name>
+    <description>LIBERIA
+ Refugee Population: 38904
+ Refugees per 1,000 inhabitants: 8.85</description>
+    <Point>
+      <coordinates>-9.5 6.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LY">
+    <name>LIBYA</name>
+    <description>LIBYA
+ Refugee Population: 27948
+ Refugees per 1,000 inhabitants: 4.47</description>
+    <Point>
+      <coordinates>17 25 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LS">
+    <name>LIECHTENSTEIN</name>
+    <description>LIECHTENSTEIN
+ Refugee Population: 107
+ Refugees per 1,000 inhabitants: 2.89</description>
+    <Point>
+      <coordinates>9.5333 47.1667 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LH">
+    <name>LITHUANIA</name>
+    <description>LITHUANIA
+ Refugee Population: 1055
+ Refugees per 1,000 inhabitants: 0.36</description>
+    <Point>
+      <coordinates>24 56 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LU">
+    <name>LUXEMBOURG</name>
+    <description>LUXEMBOURG
+ Refugee Population: 1192
+ Refugees per 1,000 inhabitants: 2.14</description>
+    <Point>
+      <coordinates>6.1667 49.75 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MK">
+    <name>MACEDONIA</name>
+    <description>MACEDONIA
+ Refugee Population: 584
+ Refugees per 1,000 inhabitants: 0.4</description>
+    <Point>
+      <coordinates>22 41.8333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MA">
+    <name>MADAGASCAR</name>
+    <description>MADAGASCAR
+ Refugee Population: 10
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>47 -20 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MI">
+    <name>MALAWI</name>
+    <description>MALAWI
+ Refugee Population: 8963
+ Refugees per 1,000 inhabitants: 0.54</description>
+    <Point>
+      <coordinates>34 -13.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MY">
+    <name>MALAYSIA</name>
+    <description>MALAYSIA
+ Refugee Population: 97385
+ Refugees per 1,000 inhabitants: 3.26</description>
+    <Point>
+      <coordinates>112.5 2.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="ML">
+    <name>MALI</name>
+    <description>MALI
+ Refugee Population: 14970
+ Refugees per 1,000 inhabitants: 0.88</description>
+    <Point>
+      <coordinates>-4 17 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MT">
+    <name>MALTA</name>
+    <description>MALTA
+ Refugee Population: 6095
+ Refugees per 1,000 inhabitants: 14.58</description>
+    <Point>
+      <coordinates>14.5833 35.8333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-1</styleUrl>
+  </Placemark>
+  <Placemark id="MR">
+    <name>MAURITANIA</name>
+    <description>MAURITANIA
+ Refugee Population: 50851
+ Refugees per 1,000 inhabitants: 19.36</description>
+    <Point>
+      <coordinates>-12 20 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-1</styleUrl>
+  </Placemark>
+  <Placemark id="MX">
+    <name>MEXICO</name>
+    <description>MEXICO
+ Refugee Population: 2158
+ Refugees per 1,000 inhabitants: 0.02</description>
+    <Point>
+      <coordinates>-102 23 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MD">
+    <name>MOLDOVA</name>
+    <description>MOLDOVA
+ Refugee Population: 389
+ Refugees per 1,000 inhabitants: 0.1</description>
+    <Point>
+      <coordinates>29 47 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MN">
+    <name>MONACO</name>
+    <description>MONACO
+ Refugee Population: 33
+ Refugees per 1,000 inhabitants: 0.87</description>
+    <Point>
+      <coordinates>7.4 43.7333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MG">
+    <name>MONGOLIA</name>
+    <description>MONGOLIA
+ Refugee Population: 11
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>105 46 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MJ">
+    <name>MONTENEGRO</name>
+    <description>MONTENEGRO
+ Refugee Population: 6203
+ Refugees per 1,000 inhabitants: 9.92</description>
+    <Point>
+      <coordinates>19 42 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MO">
+    <name>MOROCCO</name>
+    <description>MOROCCO
+ Refugee Population: 2144
+ Refugees per 1,000 inhabitants: 0.06</description>
+    <Point>
+      <coordinates>-5 32 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MZ">
+    <name>MOZAMBIQUE</name>
+    <description>MOZAMBIQUE
+ Refugee Population: 4552
+ Refugees per 1,000 inhabitants: 0.17</description>
+    <Point>
+      <coordinates>35 -18.25 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="WA">
+    <name>NAMIBIA</name>
+    <description>NAMIBIA
+ Refugee Population: 1659
+ Refugees per 1,000 inhabitants: 0.69</description>
+    <Point>
+      <coordinates>17 -22 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NR">
+    <name>NAURU</name>
+    <description>NAURU
+ Refugee Population: 506
+ Refugees per 1,000 inhabitants: 50.6</description>
+    <Point>
+      <coordinates>166.9167 -0.5333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR4-1</styleUrl>
+  </Placemark>
+  <Placemark id="NP">
+    <name>NEPAL</name>
+    <description>NEPAL
+ Refugee Population: 36287
+ Refugees per 1,000 inhabitants: 1.29</description>
+    <Point>
+      <coordinates>84 28 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NL">
+    <name>NETHERLANDS</name>
+    <description>NETHERLANDS
+ Refugee Population: 82494
+ Refugees per 1,000 inhabitants: 4.89</description>
+    <Point>
+      <coordinates>5.75 52.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NZ">
+    <name>NEW ZEALAND</name>
+    <description>NEW ZEALAND
+ Refugee Population: 1349
+ Refugees per 1,000 inhabitants: 0.3</description>
+    <Point>
+      <coordinates>174 -41 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NU">
+    <name>NICARAGUA</name>
+    <description>NICARAGUA
+ Refugee Population: 361
+ Refugees per 1,000 inhabitants: 0.06</description>
+    <Point>
+      <coordinates>-85 13 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NG">
+    <name>NIGER</name>
+    <description>NIGER
+ Refugee Population: 82064
+ Refugees per 1,000 inhabitants: 4.29</description>
+    <Point>
+      <coordinates>8 16 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NI">
+    <name>NIGERIA</name>
+    <description>NIGERIA
+ Refugee Population: 1279
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>8 10 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NO">
+    <name>NORWAY</name>
+    <description>NORWAY
+ Refugee Population: 47043
+ Refugees per 1,000 inhabitants: 9.14</description>
+    <Point>
+      <coordinates>10 62 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="MU">
+    <name>OMAN</name>
+    <description>OMAN
+ Refugee Population: 122
+ Refugees per 1,000 inhabitants: 0.03</description>
+    <Point>
+      <coordinates>57 21 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PK">
+    <name>PAKISTAN</name>
+    <description>PAKISTAN
+ Refugee Population: 1540854
+ Refugees per 1,000 inhabitants: 8.33</description>
+    <Point>
+      <coordinates>70 30 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-5</styleUrl>
+  </Placemark>
+  <Placemark id="PS">
+    <name>PALAU</name>
+    <description>PALAU
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.05</description>
+    <Point>
+      <coordinates>134.5 7.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PM">
+    <name>PANAMA</name>
+    <description>PANAMA
+ Refugee Population: 2303
+ Refugees per 1,000 inhabitants: 4.47</description>
+    <Point>
+      <coordinates>-80 9 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PP">
+    <name>PAPUA NEW GUINEA</name>
+    <description>PAPUA NEW GUINEA
+ Refugee Population: 4929
+ Refugees per 1,000 inhabitants: 1.27</description>
+    <Point>
+      <coordinates>147 -6 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PA">
+    <name>PARAGUAY</name>
+    <description>PARAGUAY
+ Refugee Population: 161
+ Refugees per 1,000 inhabitants: 0.02</description>
+    <Point>
+      <coordinates>-58 -23 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PE">
+    <name>PERU</name>
+    <description>PERU
+ Refugee Population: 1407
+ Refugees per 1,000 inhabitants: 0.05</description>
+    <Point>
+      <coordinates>-76 -10 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="RP">
+    <name>PHILIPPINES</name>
+    <description>PHILIPPINES
+ Refugee Population: 254
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>122 13 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PL">
+    <name>POLAND</name>
+    <description>POLAND
+ Refugee Population: 15741
+ Refugees per 1,000 inhabitants: 0.41</description>
+    <Point>
+      <coordinates>20 52 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="PO">
+    <name>PORTUGAL</name>
+    <description>PORTUGAL
+ Refugee Population: 699
+ Refugees per 1,000 inhabitants: 0.07</description>
+    <Point>
+      <coordinates>-8 39.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="QA">
+    <name>QATAR</name>
+    <description>QATAR
+ Refugee Population: 133
+ Refugees per 1,000 inhabitants: 0.06</description>
+    <Point>
+      <coordinates>51.25 25.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="RO">
+    <name>ROMANIA</name>
+    <description>ROMANIA
+ Refugee Population: 2426
+ Refugees per 1,000 inhabitants: 0.12</description>
+    <Point>
+      <coordinates>25 46 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="RS">
+    <name>RUSSIA</name>
+    <description>RUSSIA
+ Refugee Population: 315313
+ Refugees per 1,000 inhabitants: 2.2</description>
+    <Point>
+      <coordinates>100 60 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="RW">
+    <name>RWANDA</name>
+    <description>RWANDA
+ Refugee Population: 132743
+ Refugees per 1,000 inhabitants: 11.7</description>
+    <Point>
+      <coordinates>30 -2 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-1</styleUrl>
+  </Placemark>
+  <Placemark id="SC">
+    <name>SAINT KITTS AND NEVIS</name>
+    <description>SAINT KITTS AND NEVIS
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.02</description>
+    <Point>
+      <coordinates>-62.75 17.3333 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="ST">
+    <name>SAINT LUCIA</name>
+    <description>SAINT LUCIA
+ Refugee Population: 2
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>-61.1333 13.8833 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SA">
+    <name>SAUDI ARABIA</name>
+    <description>SAUDI ARABIA
+ Refugee Population: 184
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>45 25 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SG">
+    <name>SENEGAL</name>
+    <description>SENEGAL
+ Refugee Population: 14304
+ Refugees per 1,000 inhabitants: 0.97</description>
+    <Point>
+      <coordinates>-14 14 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SL">
+    <name>SIERRA LEONE</name>
+    <description>SIERRA LEONE
+ Refugee Population: 1371
+ Refugees per 1,000 inhabitants: 0.22</description>
+    <Point>
+      <coordinates>-11.5 8.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SN">
+    <name>SINGAPORE</name>
+    <description>SINGAPORE
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>103.8 1.3667 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="LO">
+    <name>SLOVAKIA</name>
+    <description>SLOVAKIA
+ Refugee Population: 799
+ Refugees per 1,000 inhabitants: 0.15</description>
+    <Point>
+      <coordinates>19.5 48.6667 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SI">
+    <name>SLOVENIA</name>
+    <description>SLOVENIA
+ Refugee Population: 283
+ Refugees per 1,000 inhabitants: 0.14</description>
+    <Point>
+      <coordinates>15 46 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="BP">
+    <name>SOLOMON ISLANDS</name>
+    <description>SOLOMON ISLANDS
+ Refugee Population: 3
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>159 -8 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SO">
+    <name>SOMALIA</name>
+    <description>SOMALIA
+ Refugee Population: 3582
+ Refugees per 1,000 inhabitants: 0.34</description>
+    <Point>
+      <coordinates>49 10 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SF">
+    <name>SOUTH AFRICA</name>
+    <description>SOUTH AFRICA
+ Refugee Population: 114512
+ Refugees per 1,000 inhabitants: 2.12</description>
+    <Point>
+      <coordinates>24 -29 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SP">
+    <name>SPAIN</name>
+    <description>SPAIN
+ Refugee Population: 5798
+ Refugees per 1,000 inhabitants: 0.13</description>
+    <Point>
+      <coordinates>-4 40 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="CE">
+    <name>SRI LANKA</name>
+    <description>SRI LANKA
+ Refugee Population: 848
+ Refugees per 1,000 inhabitants: 0.04</description>
+    <Point>
+      <coordinates>81 7 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SU">
+    <name>SUDAN</name>
+    <description>SUDAN
+ Refugee Population: 322638
+ Refugees per 1,000 inhabitants: 9.05</description>
+    <Point>
+      <coordinates>30 15 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NS">
+    <name>SURINAME</name>
+    <description>SURINAME
+ Refugee Population: 1
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-56 4 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="WZ">
+    <name>SWAZILAND</name>
+    <description>SWAZILAND
+ Refugee Population: 539
+ Refugees per 1,000 inhabitants: 0.42</description>
+    <Point>
+      <coordinates>31.5 -26.5 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SW">
+    <name>SWEDEN</name>
+    <description>SWEDEN
+ Refugee Population: 142207
+ Refugees per 1,000 inhabitants: 14.66</description>
+    <Point>
+      <coordinates>15 62 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-1</styleUrl>
+  </Placemark>
+  <Placemark id="SZ">
+    <name>SWITZERLAND</name>
+    <description>SWITZERLAND
+ Refugee Population: 69390
+ Refugees per 1,000 inhabitants: 8.45</description>
+    <Point>
+      <coordinates>8 47 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="SY">
+    <name>SYRIA</name>
+    <description>SYRIA
+ Refugee Population: 149200
+ Refugees per 1,000 inhabitants: 7.95</description>
+    <Point>
+      <coordinates>38 35 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TI">
+    <name>TAJIKISTAN</name>
+    <description>TAJIKISTAN
+ Refugee Population: 1782
+ Refugees per 1,000 inhabitants: 0.21</description>
+    <Point>
+      <coordinates>71 39 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TZ">
+    <name>TANZANIA</name>
+    <description>TANZANIA
+ Refugee Population: 159014
+ Refugees per 1,000 inhabitants: 3.07</description>
+    <Point>
+      <coordinates>35 -6 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TH">
+    <name>THAILAND</name>
+    <description>THAILAND
+ Refugee Population: 56947
+ Refugees per 1,000 inhabitants: 1.63</description>
+    <Point>
+      <coordinates>100 15 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TO">
+    <name>TOGO</name>
+    <description>TOGO
+ Refugee Population: 21877
+ Refugees per 1,000 inhabitants: 3.07</description>
+    <Point>
+      <coordinates>1.1667 8 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TN">
+    <name>TONGA</name>
+    <description>TONGA
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>-175 -20 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TD">
+    <name>TRINIDAD AND TOBAGO</name>
+    <description>TRINIDAD AND TOBAGO
+ Refugee Population: 121
+ Refugees per 1,000 inhabitants: 0.09</description>
+    <Point>
+      <coordinates>-61 11 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TS">
+    <name>TUNISIA</name>
+    <description>TUNISIA
+ Refugee Population: 824
+ Refugees per 1,000 inhabitants: 0.07</description>
+    <Point>
+      <coordinates>9 34 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TU">
+    <name>TURKEY</name>
+    <description>TURKEY
+ Refugee Population: 1838848
+ Refugees per 1,000 inhabitants: 23.72</description>
+    <Point>
+      <coordinates>35 39 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-5</styleUrl>
+  </Placemark>
+  <Placemark id="TX">
+    <name>TURKMENISTAN</name>
+    <description>TURKMENISTAN
+ Refugee Population: 27
+ Refugees per 1,000 inhabitants: 0.01</description>
+    <Point>
+      <coordinates>60 40 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="TK">
+    <name>TURKS AND CAICOS ISLANDS</name>
+    <description>TURKS AND CAICOS ISLANDS
+ Refugee Population: 4
+ Refugees per 1,000 inhabitants: 0.12</description>
+    <Point>
+      <coordinates>-71.5833 21.75 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="UG">
+    <name>UGANDA</name>
+    <description>UGANDA
+ Refugee Population: 428397
+ Refugees per 1,000 inhabitants: 11.34</description>
+    <Point>
+      <coordinates>32 1 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-2</styleUrl>
+  </Placemark>
+  <Placemark id="UP">
+    <name>UKRAINE</name>
+    <description>UKRAINE
+ Refugee Population: 3232
+ Refugees per 1,000 inhabitants: 0.07</description>
+    <Point>
+      <coordinates>32 49 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="UK">
+    <name>UNITED KINGDOM</name>
+    <description>UNITED KINGDOM
+ Refugee Population: 117234
+ Refugees per 1,000 inhabitants: 1.82</description>
+    <Point>
+      <coordinates>-2 54 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="US">
+    <name>UNITED STATES</name>
+    <description>UNITED STATES
+ Refugee Population: 267222
+ Refugees per 1,000 inhabitants: 0.84</description>
+    <Point>
+      <coordinates>-97 38 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="UY">
+    <name>URUGUAY</name>
+    <description>URUGUAY
+ Refugee Population: 289
+ Refugees per 1,000 inhabitants: 0.08</description>
+    <Point>
+      <coordinates>-56 -33 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="UZ">
+    <name>UZBEKISTAN</name>
+    <description>UZBEKISTAN
+ Refugee Population: 118
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>64 41 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="NH">
+    <name>VANUATU</name>
+    <description>VANUATU
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>167 -16 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="VE">
+    <name>VENEZUELA</name>
+    <description>VENEZUELA
+ Refugee Population: 5647
+ Refugees per 1,000 inhabitants: 5.68</description>
+    <Point>
+      <coordinates>-66 8 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="VM">
+    <name>VIETNAM</name>
+    <description>VIETNAM
+ Refugee Population: 3240
+ Refugees per 1,000 inhabitants: 0.665</description>
+    <Point>
+      <coordinates>106 16 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="YM">
+    <name>YEMEN</name>
+    <description>YEMEN
+ Refugee Population: 263047
+ Refugees per 1,000 inhabitants: 10.05</description>
+    <Point>
+      <coordinates>48 15 0</coordinates>
+    </Point>
+    <styleUrl>#YOR2-1</styleUrl>
+  </Placemark>
+  <Placemark id="ZA">
+    <name>ZAMBIA</name>
+    <description>ZAMBIA
+ Refugee Population: 25737
+ Refugees per 1,000 inhabitants: 1.64</description>
+    <Point>
+      <coordinates>30 -15 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+  <Placemark id="ZI">
+    <name>ZIMBABWE</name>
+    <description>ZIMBABWE
+ Refugee Population: 6085
+ Refugees per 1,000 inhabitants: 0.4</description>
+    <Point>
+      <coordinates>30 -20 0</coordinates>
+    </Point>
+    <styleUrl>#YOR1-1</styleUrl>
+  </Placemark>
+</Document>
